@@ -22,7 +22,7 @@ If you add this repository as an upstream remote, then if any changes are made t
 Feel free to open issues on this github repo with any issues or bugs you encounter. If you find a bug, or want to add a feature, fork the repo, make your change, and create a pull request.
 
 ## Credits
-Inspired by the great work of [Phillip Alexander](https://github.com/phillipalexander/generator-test)
+Inspired by the great work of [Phillip Alexander](https://github.com/phillipalexander/generator-test) and [Cody Daig](https://github.com/codydaig/).
 
 ## License
 (The MIT License)
